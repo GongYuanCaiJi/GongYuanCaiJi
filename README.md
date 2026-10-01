@@ -10,11 +10,6 @@ I do vulnerability research and root-cause analysis, and build tools around AI a
 - **用 AI 找出設計級漏洞的方法研究**：拿一個已驗證的真漏洞當尺，測試 AI 能不能自己推出攻擊手法，以及怎麼把 AI 引向人原本沒走的方向。
 - **開源貢獻**：兩個 PR 被維護者合併。[planning-with-files](https://github.com/OthmanAdi/planning-with-files/pull/181) 的 PreCompact Hook 修復，收錄在 v3.1.0。[gitcrawl](https://github.com/openclaw/gitcrawl/pull/108) 的跨 repo URL 誤判修復。
 
-## 個人專案
-
-- **[jobsalvo](https://github.com/GongYuanCaiJi/jobsalvo)**：本機的求職看板。agent 負責找職缺、判斷、挑履歷、填表、查有沒有回音，你在看板上確認後才會送出。
-- **[Fate Lens](https://fate-lens.caiji.uk/)**：用你每天記下的生活紀錄，回頭比對多種命理方法，找出哪些比較適合你。
-
 ## 聯絡
 
 [LinkedIn](https://www.linkedin.com/in/yu-ting-liu-975b59219/)
